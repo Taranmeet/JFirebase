@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "531821095490",
+    "firebase_url": "https://androidfirebasecloudmess-b23f0.firebaseio.com",
+    "project_id": "androidfirebasecloudmess-b23f0",
+    "storage_bucket": "androidfirebasecloudmess-b23f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531821095490:android:fe9152ca3415d3e2",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531821095490-nei71l67mtbajcmc8qt1ifoeqkgsdsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJjZItkkCBh-2Y0lsiFtenTz048Ev5p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531821095490:android:89c681a4d37003b7",
+        "android_client_info": {
+          "package_name": "com.usict.jfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531821095490-nei71l67mtbajcmc8qt1ifoeqkgsdsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJjZItkkCBh-2Y0lsiFtenTz048Ev5p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
